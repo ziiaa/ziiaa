@@ -23,7 +23,7 @@ namespace projek_kalkulator_sederhana
             Console.WriteLine("3. Perkalian   (*)");
             Console.WriteLine("4. pembagian   (/)");
             Console.WriteLine("\n");
-
+        
             Console.WriteLine("Masukan Angka Pertama");
             angka1 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Masukan Angka Kedua");
@@ -35,20 +35,20 @@ namespace projek_kalkulator_sederhana
             {
                 case "1":
                     total = angka1 + angka2;
-                    Console.WriteLine("\nHasil = " + total);
+                    Console.WriteLine("\nHasil"+angka1+ "+" +angka2+ "= " + total);
                     break;
                 case "2":
                     total = angka1 - angka2;
-                    Console.WriteLine("\nHasil = " + total);
+                    Console.WriteLine("\nHasil" + angka1 + "-" + angka2 + "= " + total);
                     break;
                 case "3":
                     total = angka1 * angka2;
-                    Console.WriteLine("\nHasil = " + total);
+                    Console.WriteLine("\nHasil" + angka1 + "*" + angka2 + "= " + total);
                     break;
                 case "4":
                     double totalbagi = (double)angka1 / angka2;
-                    Console.WriteLine("\nHasil = " + totalbagi);
-                    break;       
+                    Console.WriteLine("\nHasil" + angka1 + "/" + angka2 + "= " + totalbagi);
+                    break;
             }
 
             Console.WriteLine("\nTekan Sembarang Key Untuk Keluar");
