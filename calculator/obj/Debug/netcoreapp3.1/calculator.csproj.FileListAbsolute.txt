@@ -1,0 +1,13 @@
+D:\semester2\pemograman\kalkulator\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.exe
+D:\semester2\pemograman\kalkulator\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.deps.json
+D:\semester2\pemograman\kalkulator\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.runtimeconfig.json
+D:\semester2\pemograman\kalkulator\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.runtimeconfig.dev.json
+D:\semester2\pemograman\kalkulator\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.dll
+D:\semester2\pemograman\kalkulator\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.pdb
+D:\semester2\pemograman\kalkulator\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.csprojAssemblyReference.cache
+D:\semester2\pemograman\kalkulator\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.AssemblyInfoInputs.cache
+D:\semester2\pemograman\kalkulator\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.AssemblyInfo.cs
+D:\semester2\pemograman\kalkulator\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.csproj.CoreCompileInputs.cache
+D:\semester2\pemograman\kalkulator\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.dll
+D:\semester2\pemograman\kalkulator\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.pdb
+D:\semester2\pemograman\kalkulator\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.genruntimeconfig.cache
