@@ -49,6 +49,11 @@ namespace projek_kalkulator_sederhana
                     double totalbagi = (double)angka1 / angka2;
                     Console.WriteLine("\nHasil" + angka1 + "/" + angka2 + "= " + totalbagi);
                     break;
+
+                case "5":
+                    total = angka1 = angka2;
+                    Console.WriteLine("\nMaaf Hasil Yang Anda pilih Tidak Tersedia" +total);
+                    break;
             }
 
             Console.WriteLine("\nTekan Sembarang Key Untuk Keluar");
